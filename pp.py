@@ -1,6 +1,7 @@
 def function():
-	ploy = input()
-	preaw = int(input())
-	print(ploy*preaw)
+	shopee = input()
+	ipreaw = "Chop Shopee"
+	if shopee == ipreaw:
+		print("True")
 
 function()
